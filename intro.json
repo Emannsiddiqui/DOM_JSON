@@ -1,0 +1,10 @@
+{
+    "name": "Eman",
+    "age" : 20,
+    "isStudent": true,
+    "skills": ["html", "css", "JS"],
+    "address":{
+        "city": "Karachi",
+        "town": "North Nazimabad"
+    }
+}
